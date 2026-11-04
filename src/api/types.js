@@ -1,0 +1,2 @@
+/** @typedef {{id:string,title:string,description:string,format:string,paper:string,price:number,image:string,preset:string,color:string}} NotebookCollection */
+/** @typedef {{getCollections: () => Promise<NotebookCollection[]>}} ApiClient */

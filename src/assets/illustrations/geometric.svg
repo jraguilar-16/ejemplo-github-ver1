@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 380" role="img" aria-label="Diseño geométrico terracota para libreta">
+  <rect width="600" height="380" fill="#f0e5d8"/>
+  <circle cx="300" cy="190" r="138" fill="#e4cbb9"/>
+  <rect x="207" y="55" width="188" height="272" rx="13" fill="#355C4D" stroke="#fff8ec" stroke-width="6"/>
+  <path d="M228 55v272" stroke="#233e33" stroke-width="7" opacity=".7"/>
+  <path d="m300 100 59 35v70l-59 35-59-35v-70l59-35Zm0 0v140m-59-105 118 70m0-70-118 70m29-88 59 106m0-106-59 106" fill="none" stroke="#E8876A" stroke-width="6" stroke-linejoin="round"/>
+  <circle cx="300" cy="170" r="20" fill="#f5d9bb"/>
+</svg>

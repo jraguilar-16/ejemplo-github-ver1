@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 380" role="img" aria-label="Diseño de cielo nocturno para libreta">
+  <rect width="600" height="380" fill="#e3e7e1"/>
+  <circle cx="300" cy="190" r="138" fill="#cbd7d1"/>
+  <rect x="207" y="55" width="188" height="272" rx="13" fill="#394b59" stroke="#fff8ec" stroke-width="6"/>
+  <path d="M228 55v272" stroke="#263640" stroke-width="7" opacity=".7"/>
+  <path d="M324 239a68 68 0 0 1-81-81 68 68 0 1 0 81 81Z" fill="#f4dfaa"/>
+  <path d="m332 122 8 19 20 8-20 8-8 20-8-20-20-8 20-8 8-19Zm-53 95 5 11 11 5-11 5-5 11-5-11-11-5 11-5 5-11Z" fill="#e8876a"/>
+  <circle cx="355" cy="217" r="4" fill="#fff8ec"/>
+</svg>

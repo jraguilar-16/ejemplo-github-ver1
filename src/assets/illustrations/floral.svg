@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 380" role="img" aria-label="Ilustración botánica para libreta">
+  <rect width="600" height="380" fill="#f2e5dc"/>
+  <circle cx="300" cy="190" r="138" fill="#e6c6b6"/>
+  <rect x="207" y="55" width="188" height="272" rx="13" fill="#E8876A" stroke="#fff8ec" stroke-width="6"/>
+  <path d="M228 55v272" stroke="#bb654e" stroke-width="7" opacity=".55"/>
+  <path d="M307 268c-2-49 8-88 44-131M306 225c-33-4-55-23-61-54 34-2 57 16 62 49M322 184c-3-31 13-54 42-67 12 29 3 55-32 73" fill="none" stroke="#f8e9d8" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="351" cy="127" r="13" fill="none" stroke="#f8e9d8" stroke-width="7"/>
+  <path d="M275 105c-15 0-24 18-12 29 11 11 29 2 29-13 0 15 18 24 29 13 12-11 3-29-12-29 15 0 24-18 12-29-11-11-29-2-29 13 0-15-18-24-29-13-12 11-3 29 12 29Z" fill="#f7d8a8"/>
+</svg>
